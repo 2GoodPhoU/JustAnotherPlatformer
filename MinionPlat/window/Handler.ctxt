@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Handler
+comment1.params=
+comment1.target=void\ tick()
+comment2.params=g
+comment2.target=void\ render(java.awt.Graphics)
+comment3.params=object
+comment3.target=void\ addObject(framework.GameObject)
+comment4.params=object
+comment4.target=void\ removeObject(framework.GameObject)
+numComments=5

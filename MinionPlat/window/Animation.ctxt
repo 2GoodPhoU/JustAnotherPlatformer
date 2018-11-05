@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=speed\ args
+comment0.target=Animation(int,\ java.awt.image.BufferedImage[])
+comment1.params=
+comment1.target=void\ runAnimation()
+comment2.params=
+comment2.target=void\ nextFrame()
+comment3.params=g\ x\ y\ scaleX\ scaleY
+comment3.target=void\ drawAnimation(java.awt.Graphics,\ int,\ int,\ int,\ int)
+numComments=4
