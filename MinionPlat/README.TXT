@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: MinionPlat
+PURPOSE OF PROJECT: Get an A in APCS
+VERSION or DATE:  February 2016 - June 2016
+HOW TO START THIS PROJECT:  Don't touch anymore
+AUTHORS:  Eric Sy, Alex Thomas
+USER INSTRUCTIONS: Admire our plebness
